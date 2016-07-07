@@ -1,0 +1,78 @@
+.title-box{
+     margin-bottom: 20px;
+     background-color: #fff;
+     border-radius: 2px;
+
+     padding: 10px 0 10px 10px;
+     font-size: 15px;
+     font-weight: bolder;
+     color: black;
+ }
+
+/*.activity-row{*/
+    /*padding: 20px;*/
+/*}*/
+
+/*.activity-box{*/
+    /*width: 45%;*/
+    /*height: 200px;*/
+    /*border-radius: 2px;*/
+    /*margin-bottom: 10px;*/
+    /*padding: 0;*/
+    /*background-color: rgba(0,204,204,1);*/
+    /*color: white;*/
+/*}*/
+
+/*.box-left{*/
+    /*margin-right: 5%;*/
+/*}*/
+
+/*.box-right{*/
+    /*margin-left: 5%;*/
+/*}*/
+
+/*.box-content{*/
+    /*padding-left: 10px;*/
+/*}*/
+
+/*.activity-name,.activity-start,.activity-end{*/
+    /*font-weight: bolder;*/
+    /*padding: 10px;*/
+/*}*/
+
+/*.activity-btn-list{*/
+    /*margin-top: 20%;*/
+/*}*/
+
+/*.activity-btn{*/
+    /*font-weight: bolder;*/
+    /*text-align: center;*/
+/*}*/
+
+/*.activity-btn>a{*/
+    /*color: #fff;*/
+/*}*/
+
+.posterInfo{
+    margin-left: 10%;
+}
+
+.activity-btn-list{
+    margin-left: 25%;
+}
+
+.poster{
+    padding: 2px;
+}
+
+.posterName{
+    padding: 2px;
+}
+
+.activity-btn{
+    padding: 2px;
+}
+
+/*.border-line{*/
+    /*border-left: solid #000 1px;*/
+/*}*/

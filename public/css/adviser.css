@@ -1,0 +1,25 @@
+.bbs-input-title{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 2.5%;
+    color: #2b542c;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.bbs-input{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.bbs-input-post{
+    width: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bbs-post-btn{
+    margin-top: 20px;
+    margin-left: 10px;
+}

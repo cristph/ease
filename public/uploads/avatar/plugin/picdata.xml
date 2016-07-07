@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 线框和滤镜信息 -->
+<headPhoto>
+	<!-- 线框图片信息 -->
+	<lineBox>
+		 <frameLv value="vip">
+				<FrameNum>8</FrameNum>
+				<picname>草帽</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/strawhat/300X300.png</picurl>
+				
+				<picname>军人</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/soldier/300X300.png</picurl>
+				
+				<picname>狮头</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/lion/300X300.png</picurl>
+				
+				<picname>驯鹿</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/reindeer/300X300.png</picurl>
+				
+                <picname>春天里</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/dandelionpic/300X300.png</picurl>
+				
+				<picname>蒲公英</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/dandelion/300X300.png</picurl>
+				
+				<picname>我单身</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/singleme/300X300.png</picurl>
+				
+				<picname>电视机</picname>
+		        <picurl>http://wx.aoh.cc/uploads/avatar/plugin/richFace/lineBox/tv/300X300.png</picurl>
+		</frameLv>	  
+	</lineBox>
+</headPhoto>

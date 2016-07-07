@@ -1,0 +1,34 @@
+.title-box{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 2px;
+
+    padding: 10px 0 10px 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+}
+
+.activityTitle{
+    font-size: large;
+    font-weight: bolder;
+    font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+    color: black;
+    border-bottom: solid rgba(204,204,204,0.5) 2px;
+}
+
+.activityPoster{
+    margin-top: 10px;
+    color: black;
+}
+
+.activityTime{
+    margin-top: 10px;
+    color: black;
+}
+
+.activityContent{
+    margin-top: 10px;
+    color: black;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,10 @@
+.user-avatar{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 60px;
+    border: #eee 2px solid;
+}
+
+.profile-header{
+    margin-left: 20%;
+}

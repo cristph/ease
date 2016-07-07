@@ -1,0 +1,23 @@
+.postActivity{
+    padding-left: 10%;
+}
+
+.activity-name,.activity-intro{
+    width: 80%;
+}
+
+.activity-start,.activity-end{
+    display: inline;
+     width: 35%;
+ }
+
+.title-box{
+     margin-bottom: 20px;
+     background-color: #fff;
+     border-radius: 2px;
+
+     padding: 10px 0 10px 10px;
+     font-size: 15px;
+     font-weight: bolder;
+     color: black;
+ }

@@ -1,0 +1,98 @@
+.bbs-input-title{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 2.5%;
+    color: #2b542c;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.bbs-input{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.bbs-input-post{
+    width: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bbs-post-btn{
+    position: relative;
+    left: 81.5%;
+}
+
+.clear-row-margin{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.user-img-div{
+    margin-top: 10px;
+}
+
+.user-name-div{
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+.bbs-content-div{
+    padding: 0;
+}
+
+.bbs-article-div{
+    margin-top: 5px;
+    color: black;
+}
+
+.bbs-date-div{
+    margin-top: 10px;
+    font-size: smaller;
+}
+
+.bbs-btnlist-div{
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-top: solid rgba(204,204,204,0.4) 1px;
+}
+
+.bbs-btn{
+    text-align: center;
+    border-left: solid rgba(204,204,204,0.4) 1px;
+}
+
+/*************************star********************************/
+
+.title-box{
+     margin-bottom: 20px;
+     background-color: #fff;
+     border-radius: 2px;
+
+     padding: 10px 0 10px 10px;
+     font-size: 15px;
+     font-weight: bolder;
+     color: black;
+ }
+
+.bbs-content-div-star{
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.bbs-article-div-star{
+    background-color: rgba(204,204,204,0.5);
+    padding: 10px;
+    margin-top: 5px;
+    color: black;
+    font-size: 12px;
+}
+
+.inner-name{
+    display: inline;
+    color: #2ca02c;
+    font-weight: bold;
+    font-size: 12px;
+}
